@@ -24,7 +24,7 @@ This project is a clone of the controversial BabyShaker game, which was released
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/babyshaker.git
+    git clone https://github.com/jayneeljariwala/BabyShaker.git
     ```
 
 2. Open the project in Xcode:
