@@ -9,8 +9,7 @@ This project is a clone of the controversial BabyShaker game, which was released
 ## Features
 
 - **Shake Gesture Detection**: The app uses the device's accelerometer to detect shake gestures.
-- **Animations**: A simple fade-out animation plays when the baby is "calmed" after shaking.
-- **Sound Effects**: A crying baby sound plays continuously until the user shakes the device to calm the baby, triggering another sound.
+- **Sound Effects**: A crying baby sound plays continuously until the user shakes the device to finish the baby, triggering another sound.
 - **UI Components**: The app features a baby image and simple UI interactions.
   
 ## Technologies Used
@@ -41,7 +40,7 @@ This project is a clone of the controversial BabyShaker game, which was released
 
 1. Launch the app.
 2. A baby crying sound will play in a loop.
-3. Shake the device to calm the baby, triggering an animation and changing the sound.
-4. After a few seconds, the crying sound will resume, and the player can repeat the shake to calm the baby again.
+3. Shake the device to finish the baby, triggering a change the sound.
+4. After a few seconds, the crying sound will resume, and the player can repeat the shake to finish the baby again.
 
 
